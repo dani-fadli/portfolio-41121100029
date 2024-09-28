@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .project-card:hover {
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+  }
+  
+  .project-card img {
+    transition: opacity 0.3s ease;
+  }
+  
+  .project-card:hover img {
+    opacity: 0.9;
+  }
+  
+  footer p a:hover {
+    color: #ffde59;
+  }
+  
